@@ -1,0 +1,60 @@
+body{
+    background: #000;
+
+}
+.text{
+    color: aliceblue;
+}
+.boBeardoSliderItem{
+    display: flex;
+
+    flex-direction: row;
+}
+.card{
+    background-color: black;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+hr{
+    color: white;
+}
+.products{
+    margin-top: 57px;
+}
+.p1{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.links{
+    margin-top: 57px;
+}
+h4{ color: white;
+margin-bottom: 30px;}
+.footer{height: 250px;}
+
+.fa{
+    /* background-color: white; */
+    color: white;
+    margin-left: 10px;
+
+}
+.icon{
+    padding: 15px;
+}
+input{
+    background-color: #000;
+    color: white;
+    width: 200px;
+    height: 35px;
+
+}
+button{
+    background-color:white;
+    color: black;
+    height: 35px;
+    margin-right: 50px;
+}
